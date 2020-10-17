@@ -10,3 +10,8 @@ The following parts are required to build the CO2-Dice:
 ### Hardware:
 The circuit diagram and PCB layout can be found here:
 https://easyeda.com/dherrendoerfer/co2-dice
+
+### Directory content
+The following directories are part of the project files:  
+- CO2-Dice: The Arduino project containing the bare-minimum sketch for the CO2 dice
+- Cases: DXF files for making cases, stands, wallmounts for the CO2 Dice
